@@ -3,7 +3,7 @@
 ## Development
 
 
-Develop with [harhat](https://hardhat.org/tutorial/)
+Develop with [hardhat](https://hardhat.org/tutorial/)
 
 ```
 npm install
